@@ -35,15 +35,3 @@
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Saviodz&theme=jolly&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saviodz&theme=github-dark&hide_border=true"/>
-</p>
-
----
